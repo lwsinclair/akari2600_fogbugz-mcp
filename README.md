@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-akari2600-fogbugz-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-akari2600-fogbugz-mcp)
+
 # FogBugz MCP Server
 
 A Model Context Protocol (MCP) server for interacting with FogBugz through Language Learning Models (LLMs) such as Claude.
